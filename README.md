@@ -1,29 +1,6 @@
-# mai
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Пример работы можно посмотреть тут: [перейти к примеру](https://boring-carson-5c4aaf.netlify.com/)
+# Установка через консоль
+1. Клонировать репозиторий  ```git clone https://github.com/miloshsk/mai```
+2. Перейти в созданную директорию ```cd mai```
+3. Установить зависимости ```npm i```
+4. Запустить ```npm run serve```
